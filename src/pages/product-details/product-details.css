@@ -1,0 +1,15 @@
+.category {
+    text-transform: uppercase;
+}
+
+.sku {
+    margin-bottom: 1rem;
+}
+
+.price {
+    font-size: 2rem;
+}
+
+.product-image{
+    width: 200px;
+}
